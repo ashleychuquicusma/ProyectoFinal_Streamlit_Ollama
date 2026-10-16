@@ -1,0 +1,19 @@
+
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de Streamlit
+.streamlit/secrets.toml
+
+# Archivos del sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Configuración de editores
+.vscode/
+.idea/
